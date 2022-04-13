@@ -1,0 +1,33 @@
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+}
+
+h1{
+    font-weight: bold;
+}
+
+li{
+    font-style: italic;
+}
+
+h2{
+    font-weight: 500;
+}
+
+.bg{
+    background-image: url('../images/neutral\ background.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.link{
+    color:blue
+}
+
+.credit{
+    font-size: x-small;
+    word-wrap: break-word;
+}
